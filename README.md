@@ -1,6 +1,5 @@
 # 💫 About Me:
-👯 I'm looking to collaborate on open-source web projects, music/media apps, or AI-integrated platforms<br>🤝 I'm looking for help with  system design and scaling backend architectures<br>🌱 I'm currently learning DSA (250+ problems solved!), PostgreSQL, and AI/ML integrations<br>💬 Ask me about React.js, Node.js, REST APIs, MongoDB, Firebase, or anything full-stack<br>⚡ Fun fact I built a full music streaming platform AND an AI recipe app — all before my 2nd year of college!
-
+🤝 I'm looking for help with  system design and scaling backend architectures<br>🌱 I'm currently learning DSA (250+ problems solved!), PostgreSQL, and AI/ML integrations<br>💬 Ask me about React.js, Node.js, REST APIs, MongoDB, Firebase, or anything full-stack<br>⚡ Fun fact I built a full music streaming platform AND an AI recipe app 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jeet-zala-1b253828b) 
